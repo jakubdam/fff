@@ -4,7 +4,8 @@ void main()
 {
 for(int i=0;i<6;i++)
 {
-printf("hello %d\n",i);
+printf("hello %d\n\n",i);
 printf("world\n");
+printf("something\n");
 }
 }
